@@ -1,0 +1,7 @@
+html {
+    @apply bg-gray-800;
+}
+
+.container {
+    @apply mx-auto;
+}
